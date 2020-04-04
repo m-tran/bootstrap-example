@@ -1,0 +1,16 @@
+body {
+    padding-top: 20px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+[class*="col-"] {
+    padding: 20px 0 20px 0;
+    border: 1px solid #0000ff;
+}
